@@ -1,0 +1,7 @@
+C:\VGD\PMQ2\BaseClassDemo\BaseClassDemo\obj\Debug\BaseClassDemo.csprojAssemblyReference.cache
+C:\VGD\PMQ2\BaseClassDemo\BaseClassDemo\obj\Debug\BaseClassDemo.csproj.CoreCompileInputs.cache
+C:\VGD\PMQ2\BaseClassDemo\BaseClassDemo\bin\Debug\BaseClassDemo.exe.config
+C:\VGD\PMQ2\BaseClassDemo\BaseClassDemo\bin\Debug\BaseClassDemo.exe
+C:\VGD\PMQ2\BaseClassDemo\BaseClassDemo\bin\Debug\BaseClassDemo.pdb
+C:\VGD\PMQ2\BaseClassDemo\BaseClassDemo\obj\Debug\BaseClassDemo.exe
+C:\VGD\PMQ2\BaseClassDemo\BaseClassDemo\obj\Debug\BaseClassDemo.pdb
